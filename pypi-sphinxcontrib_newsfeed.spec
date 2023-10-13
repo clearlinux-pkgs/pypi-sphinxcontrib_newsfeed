@@ -4,7 +4,7 @@
 #
 Name     : pypi-sphinxcontrib_newsfeed
 Version  : 0.1.4
-Release  : 11
+Release  : 12
 URL      : https://files.pythonhosted.org/packages/2b/5e/8bc839b5c4ef030bf26eede24208a49f25d00033cbd4969b3895264f14db/sphinxcontrib-newsfeed-0.1.4.tar.gz
 Source0  : https://files.pythonhosted.org/packages/2b/5e/8bc839b5c4ef030bf26eede24208a49f25d00033cbd4969b3895264f14db/sphinxcontrib-newsfeed-0.1.4.tar.gz
 Summary  : News Feed extension for Sphinx
